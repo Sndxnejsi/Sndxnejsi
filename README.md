@@ -15,7 +15,7 @@ Mesmo no início da carreira, já tenho meus objetivos bem claros construir uma 
 
  Atualmente aprendendo e praticando **desenvolvimento web e back-end**
  Sempre buscando evoluir com novos projetos e desafios
- Objetivo me tornar um **desenvolvedor de sistemas completo**
+
 
 
 ---
