@@ -8,7 +8,7 @@
 
 ---
 
-### 🚀 Sobre mim
+###  Sobre mim
 
 Sou estudante de TI, cursando o **Técnico em Desenvolvimento de Sistemas**.
 Mesmo no início da carreira, já tenho meus objetivos bem claros: construir uma base sólida como desenvolvedor, com foco, disciplina e vontade de crescer cada vez mais na área de tecnologia.
@@ -52,7 +52,6 @@ Mesmo no início da carreira, já tenho meus objetivos bem claros: construir uma
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sndxnejsi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
->  As estatísticas usam o [GitHub Stats Extended](https://github.com/stats-organization/github-stats-extended), sucessor mantido do antigo `github-readme-stats` (que foi descontinuado). Se algum card não carregar de primeira, dá um refresh na página do GitHub — às vezes é só cache do CDN.
 
 ---
 
@@ -71,6 +70,6 @@ Mesmo no início da carreira, já tenho meus objetivos bem claros: construir uma
 
 <div align="center">
 
-✨ **Obrigado por visitar meu perfil!** ✨
+
 
 </div>
