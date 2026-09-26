@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou o João 👋
+# Olá, eu sou o João 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Estudante+de+TI;Curso+T%C3%A9cnico+em+Desenvolvimento+de+Sistemas;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
 
@@ -8,19 +8,19 @@
 
 ---
 
-### 🚀 Sobre mim
+###  Sobre mim
 
 Sou estudante de TI, cursando o **Técnico em Desenvolvimento de Sistemas**.
 Mesmo no início da carreira, já tenho meus objetivos bem claros: construir uma base sólida como desenvolvedor, com foco, disciplina e vontade de crescer cada vez mais na área de tecnologia.
 
-- 🔭 Atualmente aprendendo e praticando **desenvolvimento web e back-end**
-- 🌱 Sempre buscando evoluir com novos projetos e desafios
-- 🎯 Objetivo: me tornar um **desenvolvedor de sistemas completo**
-- ⚡ Curiosidade e dedicação são minhas maiores ferramentas
+ Atualmente aprendendo e praticando **desenvolvimento web e back-end**
+ Sempre buscando evoluir com novos projetos e desafios
+Objetivo me tornar um **desenvolvedor de sistemas completo**
+ Curiosidade e dedicação são minhas maiores ferramentas
 
 ---
 
-### 🛠️ Ferramentas e Tecnologias
+###  Ferramentas e Tecnologias
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -41,29 +41,19 @@ Mesmo no início da carreira, já tenho meus objetivos bem claros: construir uma
 
 ---
 
-### 📊 Estatísticas do GitHub
+###  Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sndxnejsi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Sndxnejsi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sndxnejsi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-> ⚠️ Troque `SEU_USUARIO` (em todos os links acima) pelo seu nome de usuário real do GitHub para os gráficos funcionarem.
 
----
 
-### 📌 Meus Repositórios
-
-<!--REPOS-LIST:START-->
-<!--REPOS-LIST:END-->
-
-*Essa lista é atualizada automaticamente todos os dias por uma GitHub Action.*
-
----
 
 ### 📫 Contato
 
@@ -78,6 +68,5 @@ Mesmo no início da carreira, já tenho meus objetivos bem claros: construir uma
 
 <div align="center">
 
-✨ **Obrigado por visitar meu perfil!** ✨
 
 </div>
