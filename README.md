@@ -11,12 +11,12 @@
 ###  Sobre mim
 
 Sou estudante de TI, cursando o **Técnico em Desenvolvimento de Sistemas**.
-Mesmo no início da carreira, já tenho meus objetivos bem claros: construir uma base sólida como desenvolvedor, com foco, disciplina e vontade de crescer cada vez mais na área de tecnologia.
+Mesmo no início da carreira, já tenho meus objetivos bem claros construir uma base sólida como desenvolvedor, com foco, disciplina e vontade de crescer cada vez mais na área de tecnologia.
 
  Atualmente aprendendo e praticando **desenvolvimento web e back-end**
  Sempre buscando evoluir com novos projetos e desafios
  Objetivo me tornar um **desenvolvedor de sistemas completo**
- Curiosidade e dedicação são minhas maiores ferramentas
+
 
 ---
 
